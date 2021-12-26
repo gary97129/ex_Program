@@ -1,0 +1,8 @@
+文字置中 text-center
+container置中{
+<style>
+.container{
+    margin:0 auto;
+}
+</style>
+}
